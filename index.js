@@ -19,19 +19,19 @@ app.listen(
     password: "1a2s3d4f",
     email: "finky.tableaux@example.com",
     courses: {
-        course1: {
+        course: {
             courseID: "CMSC 4455",
             courseName: "Intro to Sinus Infections",
             startDate: "08/24/23",
             endDate: "12/17/23",
         },
-        course2: {
+        course1: {
             courseID: "CMSC 4466",
             courseName: "Intro to Health Inspections",
             startDate: "8/25/23",
             endDate: "12/18/23",
         },
-        course3: {
+        course2: {
             courseID: "CMSC 4477",
             courseName: "Intro to Grammatical Interjections",
             startDate: "8/26/23",
